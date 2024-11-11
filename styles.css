@@ -3,5 +3,8 @@ h1 {
 }
 button{
     color: green;
-    background-color: aqua; sad
+    background-color: aqua;
+}
+a{
+    color: red;
 }
